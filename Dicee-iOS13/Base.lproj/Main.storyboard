@@ -28,7 +28,6 @@
                                                 <rect key="frame" x="109" y="72.5" width="196.00000000000006" height="128"/>
                                             </imageView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="M0d-p7-aaW" firstAttribute="centerY" secondItem="qHY-hh-zqe" secondAttribute="centerY" id="h9h-hj-ec2"/>
                                             <constraint firstItem="M0d-p7-aaW" firstAttribute="centerX" secondItem="qHY-hh-zqe" secondAttribute="centerX" id="txj-DR-r5e"/>
@@ -49,7 +48,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="Yl5-a9-D0k" firstAttribute="centerY" secondItem="Xvi-XT-9E1" secondAttribute="centerY" id="JJk-GH-ETt"/>
                                             <constraint firstItem="Yl5-a9-D0k" firstAttribute="centerX" secondItem="Xvi-XT-9E1" secondAttribute="centerX" id="cPs-qZ-ssw"/>
@@ -74,7 +72,6 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                         <constraints>
                                             <constraint firstItem="nb5-7j-Qo2" firstAttribute="centerX" secondItem="Ioc-n9-i1A" secondAttribute="centerX" id="Cy4-KY-rCo"/>
                                             <constraint firstItem="nb5-7j-Qo2" firstAttribute="centerY" secondItem="Ioc-n9-i1A" secondAttribute="centerY" id="ghQ-U2-s8N"/>
